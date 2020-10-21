@@ -50,7 +50,6 @@ var cnames_active = {
   "2tube": "you2php.github.io/you2php",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.com",
-  "365404": "by365404.github.io/by365404",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
@@ -2473,6 +2472,7 @@ var cnames_active = {
   "vita": "raais.github.io/vita",
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
   "vk-x": "vk-x.github.io",
+  "vlog": "by365404.github.io/by365404",
   "vncz": "xvincentx.github.io/vncz",
   "volantis": "cname.vercel-dns.com", // noCF
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
